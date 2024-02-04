@@ -1,5 +1,9 @@
 # Alphabet Soup Charity Predictive Model
 
+<p align="center">
+  <img src="./images/header_image.PNG" alt="header"/>
+</p>
+
 ## Background
 
 The nonprofit foundation Alphabet Soup requires a predictive model to identify applicants for funding who have the highest likelihood of success in their ventures. To achieve this, we will utilize machine learning and neural networks to build a binary classifier that predicts whether an applicant will be successful if funded by Alphabet Soup.
@@ -105,15 +109,20 @@ The purpose of this analysis is to assess the performance of a deep learning neu
 <p align="center">
   <img src="./images/initial_attempt_result.JPG" alt="initial_attempt_result"/>
 </p>
+
 - **Initial Optimization Attempt**
 <p align="center">
   <img src="./images/initial_optimization_result.JPG" alt="initial_optimization_result"/>
 </p>
+
 - **Second Optimization Attempt**
+
 <p align="center">
   <img src="./images/second_optimization_result.JPG" alt="second_optimization_result"/>
 </p>
+
 - **Third Optimization Attempt**
+
 <p align="center">
   <img src="./images/third_optimization_result.JPG" alt="third_optimization_result"/>
 </p>
