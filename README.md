@@ -1,7 +1,7 @@
 # Alphabet Soup Charity Predictive Model
 
 <p align="center">
-  <img src="./images/header_image.PNG" alt="header"/>
+  <img src="./images/header_image.png" alt="header"/>
 </p>
 
 ## Background
